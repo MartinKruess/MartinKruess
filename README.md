@@ -4,13 +4,13 @@
 <p align="center">I am passionate about sharing knowledge and helping students build a strong foundation in web development.</p>
 <h2 align="center">My Projects</h2>
 
-<a href="" target="_blank"></a>
+<a href="" target="_blank"><img src="./images/webDevCollection.png" /></a>
 
-<a href="" target="_blank"></a>
+<a href="" target="_blank"><img src="./images/webDevCollection.png" /></a>
 
-<a href="" target="_blank"></a>
+<a href="" target="_blank"><img src="./images/webDevCollection.png" /></a>
 
-<a href="" target="_blank"></a>
+<a href="https://github.com/MartinKruess/webDevCollecion" target="_blank"><img src="./images/webDevCollection.png" /></a>
 
 <h2 align="center">My Tech Stack and Tools I Use</h2>
 
