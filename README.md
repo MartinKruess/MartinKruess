@@ -4,9 +4,14 @@
 <p align="center">I am passionate about sharing knowledge and helping students build a strong foundation in web development.</p>
 <h2 align="center">My Projects</h2>
 
-<a href="https://github.com/MartinKruess/fliesenparadies" target="_blank"><img style="width: 40%;" src="./images/fliesenparadiesVoß.png" /></a>
+<a href="https://github.com/MartinKruess/fliesenparadies" target="_blank">
+  <img style="width: 30%;" src="./images/fliesenparadiesVoß.png" />
+</a>
 <a href="https://github.com/MartinKruess/webDevCollecion" target="_blank">
-  <img style="width: 40%;" src="./images/webDevCollection.png" />
+  <img style="width: 30%;" src="./images/webDevCollection.png" />
+</a>
+<a href="https://github.com/MartinKruess/streamCollection/tree/master/src/comps" target="_blank">
+  <img style="width: 30%;" src="./images/streamCollection.png" />
 </a>
 
 <h2 align="center">My Tech Stack and Tools I Use</h2>
