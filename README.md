@@ -4,7 +4,7 @@
 <p align="center">I am passionate about sharing knowledge and helping students build a strong foundation in web development.</p>
 <h2 align="center">My Projects</h2>
 
-<a href="https://www.fliesenparadies-voss.de" target="_blank"><img style="width: 40%;" src="./images/fliesenparadiesVoß.png" /></a>
+<a href="https://github.com/MartinKruess/fliesenparadies" target="_blank"><img style="width: 40%;" src="./images/fliesenparadiesVoß.png" /></a>
 <a href="https://github.com/MartinKruess/webDevCollecion" target="_blank">
   <img style="width: 40%;" src="./images/webDevCollection.png" />
 </a>
