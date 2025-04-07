@@ -1,4 +1,11 @@
-# 💫 About Me:
+# 👨‍🏫 About Me:
+
+I’m a fullstack web-dev junior teacher at DCI and currently guiding my third class on their journey into the tech world.
+My main focus is on the modern MERN stack (MongoDB, Express, React, Node.js), but I also cover topics like Docker, Microservices, TypeScript, and Next.js to provide students with a practical and future-ready skill set.
+
+What matters most to me is breaking down complex concepts in a way that’s easy to understand and creating a motivating learning environment where creativity and individual solutions are encouraged.
+
+## 🔧 My current Projects 🚀
 
 - Learing Python
 
