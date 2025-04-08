@@ -7,7 +7,7 @@ What matters most to me is breaking down complex concepts in a way that’s easy
 
 ## 🎯 Hobbys
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&width=435&lines=%F0%9F%8E%AE+gaming;%F0%9F%8E%9E%EF%B8%8F+video+editing;%F0%9F%8E%B9+audio+editin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7921D&multiline=true&random=true&width=435&height=150&lines=%F0%9F%8E%AE+Gaming;%F0%9F%8E%A7+Audio+Editing;%F0%9F%92%BB+Coding;%F0%9F%8E%9E%EF%B8%8F+Video+Editing;%F0%9F%94%A8+DIY)]()
 
 ## 🔧 My current Projects 🚀
 
