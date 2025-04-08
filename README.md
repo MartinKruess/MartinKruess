@@ -5,6 +5,8 @@ My main focus is on the modern MERN stack (MongoDB, Express, React, Node.js), bu
 
 What matters most to me is breaking down complex concepts in a way that’s easy to understand and creating a motivating learning environment where creativity and individual solutions are encouraged.
 
+[[🎮 gaming]() [🎞️ video editing]]() [🎹 audio editing]()]
+
 ## 🔧 My current Projects 🚀
 
 - Learing Python
