@@ -5,8 +5,10 @@ My main focus is on the modern MERN stack (MongoDB, Express, React, Node.js), bu
 
 What matters most to me is breaking down complex concepts in a way that’s easy to understand and creating a motivating learning environment where creativity and individual solutions are encouraged.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🎮 gaming;🎞️ video editing)](https://git.io/typing-svg)
- 
+## 🎯 Hobbys
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&width=435&lines=%F0%9F%8E%AE+gaming;%F0%9F%8E%9E%EF%B8%8F+video+editing;%F0%9F%8E%B9+audio+editin)](https://git.io/typing-svg)
+
 ## 🔧 My current Projects 🚀
 
 - Learing Python
